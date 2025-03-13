@@ -35,7 +35,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
 
-   ```bash
+    ```bash
    git clone https://github.com/yourusername/malaysian-foodie.git
    cd malaysian-foodie
    
@@ -46,12 +46,12 @@ Using npm:
     ```bash
    npm install
 
-3. Running the Development Server
 
+3. Running the Development Server
 To start the development server, run:
 
-```bash
-npm start
+    ```bash
+    npm start
 
 The application will be available at [http://localhost:3000]
    
