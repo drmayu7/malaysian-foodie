@@ -39,13 +39,11 @@ Ensure you have the following installed:
    git clone https://github.com/yourusername/malaysian-foodie.git
    cd malaysian-foodie
    
-	
 2.	Install dependencies:
 Using npm:
 
     ```bash
-   npm install
-
+   	npm install
 
 3. Running the Development Server
 To start the development server, run:
