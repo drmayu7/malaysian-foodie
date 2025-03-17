@@ -16,7 +16,7 @@ export default async function MealsDetailPage({ params }) {
         <>
             <header className={classes.header}>
                 <div className={classes.image}>
-                    <Image src={meal.image} alt={meal.title} fill />
+                    <Image src={`https://mfoodie-images.s3.ap-southeast-5.amazonaws.com/${meal.image}`} alt={meal.title} fill />
                 </div>
                 <div className={classes.headerText}>
                     <h1>{meal.title}</h1>
